@@ -8,5 +8,7 @@
 	<artifactId>springboot-web</artifactId>
 	<version>1.0.0</version>
 
+	<description>spring boot web application 사용을 위한 sample 모듈</description>
+
 
 </project>
